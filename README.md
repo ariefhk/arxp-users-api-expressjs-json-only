@@ -13,3 +13,15 @@ npm install express --save
 ```bash
 npm i nodemon
 ```
+
+3. Body Parser
+
+```bash
+npm i body-parser
+```
+
+4. Dot env
+
+```bash
+npm install dotenv --save
+```
